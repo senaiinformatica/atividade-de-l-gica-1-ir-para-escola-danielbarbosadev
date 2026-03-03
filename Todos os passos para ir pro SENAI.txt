@@ -1,0 +1,69 @@
+Todos os passos para ir pro SENAI
+Acordo
+Abro os olhos
+Inclino meu tronco para frente
+levanto da cama
+Pego meu celular
+Ligo o celular
+Confiro o horário
+Desligo o celular
+Deixo em cima da estante
+Vou até o guarda roupa
+Abro o guarda roupa 
+Pego minha escova de dente
+Vou até o banheiro
+Acendo a luz do banheiro
+Abro o armário do banheiro
+Pego a pasta de dente 
+Giro a tampa da pasta de dente
+Abro a pasta de dente
+Abro a tampa da escova
+Coloco pasta de dente na cerda de escova
+Fecho a pasta de dente 
+Guardo a pasta de dente
+Escovo os dentes
+Abro a torneira
+Lavo a boca e o rosto
+Desligo a torneira
+Fecho a tampa da escova de dente
+Apago a luz do banheiro
+Saio do banheiro
+Vou até o meu quarto
+Guardo a escova 
+Me troco
+Desço até a sala
+Arrumo minha mochila
+Vou até o quintal de casa
+Pego minha chave
+Abro o portão
+Saio de casa
+Fecho o portão
+Subo minha rua
+Paro no ponto
+Espero o ônibus
+Entro no ônibus
+Passo o bilhete
+Passo a catraca
+Espero chegar ao destino
+Desço do ônibus
+Vou andando até o túnel do metrô
+Entro no túnel
+Atravesso o túnel
+Saio do túnel
+Subo a rua na frente do túnel
+Viro a esquerda depois de 2 ruas
+Chego no SENAI
+Passo o cartão na catraca
+Passo pela catraca
+Ando até o final do corredor
+Subo as escadas
+Viro a esquerda 
+Sigo até o final do corredor
+Viro a direita
+Entro na primeira porta a direita
+Caso a primeira porta esteja fechada
+Viro na segunda porta a direita
+Sento no meu lugar
+
+ 
+
