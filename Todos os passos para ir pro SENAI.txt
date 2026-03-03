@@ -14,11 +14,11 @@ Pego minha escova de dente
 Vou até o banheiro
 Acendo a luz do banheiro
 Abro o armário do banheiro
-Pego a pasta de dente 
-Giro a tampa da pasta de dente
+Pego o tubo de pasta de dente 
+Giro a tampa do tubo de pasta de dente
 Abro a pasta de dente
 Abro a tampa da escova
-Coloco pasta de dente na cerda de escova
+Espremo o tubo de pasta de dente até sair a pasta e passo na cerda de escova
 Fecho a pasta de dente 
 Guardo a pasta de dente
 Escovo os dentes
@@ -33,14 +33,18 @@ Guardo a escova
 Me troco
 Desço até a sala
 Arrumo minha mochila
+Vou até a cozinha
+Abro a porta de casa
+Saio de casa
 Vou até o quintal de casa
 Pego minha chave
 Abro o portão
-Saio de casa
+Saio para a rua
 Fecho o portão
 Subo minha rua
 Paro no ponto
 Espero o ônibus
+Dou sinal para o ônibus
 Entro no ônibus
 Passo o bilhete
 Passo a catraca
@@ -64,6 +68,5 @@ Entro na primeira porta a direita
 Caso a primeira porta esteja fechada
 Viro na segunda porta a direita
 Sento no meu lugar
-
  
 
